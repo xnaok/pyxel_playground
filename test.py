@@ -20,3 +20,5 @@ class App:
         pyxel.rect(self.x, 0, self.x + 7, 7, 9)
 
 App()
+
+# 参考サイト：https://note.com/syun77/n/nf0f094854644
